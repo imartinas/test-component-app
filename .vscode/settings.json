@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+    "projectKey": "augero-singlepatientview",
+     "connectionId": "scp_sonarQube"
+  }
+}

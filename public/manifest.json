@@ -1,0 +1,8 @@
+{
+    "sap.app": {
+        "id": "testcomponent",
+        "applicationVersion": {
+            "version": "1.0.0"
+        }
+    }
+}

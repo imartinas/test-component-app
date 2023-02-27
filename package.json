@@ -1,7 +1,7 @@
 {
     "name": "test-component-app",
     "version": "1.0.0",
-    "homepage": "https://im044894.github.io/test-component-app",
+    "homepage": "https://imartinas.github.io/test-component-app",
     "private": true,
     "scripts": {
         "start": "set NODE_OPTIONS=--max_old_space_size=4096 && node scripts/start.js",
