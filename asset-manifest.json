@@ -1,0 +1,28 @@
+{
+  "files": {
+    "core-js~._node_modules_@.js": "./core-js~._node_modules_@.bundle.c8ffb37b13a11d53bb40.js",
+    "core-js~._node_modules_c.js": "./core-js~._node_modules_c.bundle.c8ffb37b13a11d53bb40.js",
+    "core-js~._node_modules_core-js_modules_es.a.js": "./core-js~._node_modules_core-js_modules_es.a.bundle.c8ffb37b13a11d53bb40.js",
+    "index~._i.js": "./index~._i.bundle.c8ffb37b13a11d53bb40.js",
+    "index~._n.css": "./index~._n.css",
+    "index~._n.js": "./index~._n.bundle.c8ffb37b13a11d53bb40.js",
+    "index~._node_modules_r.css": "./index~._node_modules_r.css",
+    "index~._node_modules_r.js": "./index~._node_modules_r.bundle.c8ffb37b13a11d53bb40.js",
+    "index~._node_modules_react-dom_cjs_react-dom.production.min.js~ca5df4ec.js": "./index~._node_modules_react-dom_cjs_react-dom.production.min.js~ca5df4ec.bundle.c8ffb37b13a11d53bb40.js",
+    "regenerator-runtime~._node_modules_regenerator-runtime_runtime.js~96cf36c6.js": "./regenerator-runtime~._node_modules_regenerator-runtime_runtime.js~96cf36c6.bundle.c8ffb37b13a11d53bb40.js",
+    "runtime.js": "./runtime.bundle.c8ffb37b13a11d53bb40.js",
+    "../dist/src/App.d.ts": "./../dist/src/App.d.ts",
+    "../dist/src/index.d.ts": "./../dist/src/index.d.ts",
+    "../dist/src/serviceWorker.d.ts": "./../dist/src/serviceWorker.d.ts",
+    "../dist/src/setupTests.d.ts": "./../dist/src/setupTests.d.ts",
+    "./index.html": "././index.html",
+    "core-js~._node_modules_@.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./core-js~._node_modules_@.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "core-js~._node_modules_c.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./core-js~._node_modules_c.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "core-js~._node_modules_core-js_modules_es.a.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./core-js~._node_modules_core-js_modules_es.a.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "index~._i.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./index~._i.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "index~._n.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./index~._n.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "index~._node_modules_r.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./index~._node_modules_r.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "index~._node_modules_react-dom_cjs_react-dom.production.min.js~ca5df4ec.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./index~._node_modules_react-dom_cjs_react-dom.production.min.js~ca5df4ec.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt",
+    "regenerator-runtime~._node_modules_regenerator-runtime_runtime.js~96cf36c6.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt": "./regenerator-runtime~._node_modules_regenerator-runtime_runtime.js~96cf36c6.bundle.c8ffb37b13a11d53bb40.js.LICENSE.txt"
+  }
+}
